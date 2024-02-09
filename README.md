@@ -9,6 +9,7 @@ Overall, this project taught me alot about the concept of java and how it is str
 # Development Environment
 
 Visual Studio Code
+NetBeans 2.0 (attempted but chose visual Studio code in the end)
 
 Java
 
