@@ -199,7 +199,7 @@ class MyOperatorButtons extends Button implements ActionListener {
             calculator_name.op = operationText.charAt(0);
             return;
         }
-        // this captures the button press for any input
+        // this captures the button press for any input regarding the operation buttons
         switch (calculator_name.op) {
             case '+':
                 temp += calculator_name.number_entry;
